@@ -2,7 +2,7 @@
 - 👀 I’m interested in data visualization and interactive shiny dashboards for healthcare
 - 🌱 I’m currently learning mobile application developments
 - 💞️ I’m looking to collaborate on public health-related data visualization
-- 📫 How to reach me on Twitter @eppdyoc
+- 📫 How to reach me on Twitter @eppdyoc. You can also visit my website https://stephenbalogun.github.io/stbalogun/
 
 <!---
 stephenbalogun/stephenbalogun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
